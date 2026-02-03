@@ -2,12 +2,12 @@
 
 ## Student Information
 
-- **Name**: [Biswajeet Rout]
-- **Course**: [B.Tech CSE]
-- **Instructor**: [Mr. Prasad Junghare]
-- **Email**: [2025.biswajeetr@isu.ac.in]
-- **GitHub**: [https://github.com/biswyaa28]
-- **LinkedIn**: [https://www.linkedin.com/in/biswajeet-rout-881378321/]
+- **Name**: Biswajeet Rout
+- **Course**: B.Tech CSE
+- **Instructor**: Mr. Prasad Junghare
+- **Email**: 2025.biswajeetr@isu.ac.in
+- **GitHub**: https://github.com/biswyaa28
+- **LinkedIn**: https://www.linkedin.com/in/biswajeet-rout-881378321/
 
 ## How to View Assignments
 
