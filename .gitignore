@@ -1,0 +1,13 @@
+# Zed editor
+.zed/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+
+# System files
+*.log
+*.tmp
