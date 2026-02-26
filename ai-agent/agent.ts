@@ -124,3 +124,16 @@ main().catch((error) => {
   console.error(error instanceof Error ? error.message : String(error));
   process.exit(1);
 });
+
+//this is how you run the code
+// # List files
+//npx tsx JS_assignment/ai-agent/agent.ts "list files in workspace"
+
+//# Create a file
+//npx tsx tsx JS_assignment/ai-agent/agent.ts "create a file called test.txt with content 'Hello'"
+
+//# Read a file
+//npx tsx JS_assignment/ai-agent/agent.ts "read the file hello.txt"
+
+//# Delete a file
+//npx tsx JS_assignment/ai-agent/agent.ts "delete hello.txt"
